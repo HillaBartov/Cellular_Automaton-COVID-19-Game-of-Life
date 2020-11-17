@@ -7,8 +7,9 @@ Download Covid.jar file.
 
 # Run Insturctions:
 Open terminal in Covid.jar location and type:
+```bash
 java -jar Covid.jar
-
+```
 After compilation, follow User Input Instructions.
 
 Enjoy GUI Simulation!
