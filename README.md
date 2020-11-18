@@ -5,7 +5,7 @@ GUI simulation showing the infection path of covid-19 by "wrap around" cells gri
 
 Download Covid.jar file.
 
-# Run Instructions:
+# Run Instructions
 Open terminal in Covid.jar location and type:
 ```bash
 java -jar Covid.jar
